@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **Data,**
 
-- 📫 How to reach me **nyagachris411@gmail.com*
+- 📫 How to reach me **mukunajohn329@gmail.com*
 
 
 - ⚡ Fun fact **sudo chmod ....**
