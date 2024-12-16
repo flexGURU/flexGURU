@@ -1,3 +1,12 @@
-<h1># 🐐 GOAT: Golang | Angular | TypeScript </h1>
+# 🐐 GOAT: Golang | Angular | TypeScript  
 
-<h3>Welcome to my GitHub space! Here, I showcase projects, ideas, and collaborations where **Golang**, **Angular**, and **TypeScript** take the center stage. 🚀</h3>
+```bash
+Welcome to /the/code/zone  
+> Initiating... 100% 🟢  
+# 🖥️ Whoami: /the/goat/nerd
+{
+  "role": "Full-stack Dev",
+  "stack": ["Golang", "Angular", "TypeScript"],
+  "status": "Always Learning",
+  "hobbies": ["Hitting the gym 💪", "Leveling up skills 📚"]
+}
