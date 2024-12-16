@@ -27,7 +27,7 @@
 >   - Projects that push frameworks and ideas to their limits.  
 >   - Concepts and solutions brewed in late-night coding jams.  
 >  
-> 🔗 Bonus loot? [**My Portfolio Website**]([#](https://mukuna-nganga.vercel.app/)).  
+> 🔗 Bonus loot? [https://mukuna-nganga.vercel.app/](https://mukuna-nganga.vercel.app/)
 
 ---
 
